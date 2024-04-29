@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @singhjaisy
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Web Development (MERN Stack)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects
+- 📫 reach me on linked in @jaismeenpreetsingh
 
 <!---
 singhjaisy/singhjaisy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
